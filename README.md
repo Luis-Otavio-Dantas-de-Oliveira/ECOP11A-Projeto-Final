@@ -12,4 +12,4 @@ descrição do objetivo
 
 ## Diagrama em blocos
 
-[]()
+<img src="link" />
